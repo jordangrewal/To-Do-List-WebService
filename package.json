@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list-webservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurpinder-Grewal/To-Do-List-WebService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurpinder-Grewal/To-Do-List-WebService/issues"
+  },
+  "homepage": "https://github.com/Gurpinder-Grewal/To-Do-List-WebService#readme"
+}
