@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h3{
+    font-size: 2rem;
+    padding: 50px;
+}
+.card{
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%); */
+    display: inline-block;
+    margin: 50px;
+}
+.container-list{
+    display: inline;
+}
+.write{
+    margin: 25px auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+.write:focus{
+    outline: 0px;
+    box-shadow: none;
+    border-radius: 20px;
+    border-color: blue;
+}
+.add-icon-background{
+    display: inline;
+    margin: auto 25px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 50px ;
+    /* display: none; */
+   
+}
